@@ -1,4 +1,0 @@
-nodejs-blog
-===========
-
-node.js
